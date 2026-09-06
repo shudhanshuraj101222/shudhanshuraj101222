@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Aspiring Developer  <br>🎨 UI/UX Enthusiast  <br>🌱 Learning • Building • Growing  <br>💻 Java | Python | HTML | CSS  <br>🚀 Turning ideas into projects
+🤖 Aspiring AI/ML Developer | 🐍 Python | 🧠 Machine Learning | 📊 Data Science | 🚀 Building AI-Powered Solutions
 
 
 # 💻 Tech Stack:
